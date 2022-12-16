@@ -1,2 +1,2 @@
-# lombardi.samuele.4h.rna
+# rna
 esercizio di conversione di un filamento dna in uno rna
